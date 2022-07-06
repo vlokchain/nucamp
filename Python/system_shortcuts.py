@@ -1,0 +1,1 @@
+# To activate interactive python in the terminal type: $ python -i filename.py
